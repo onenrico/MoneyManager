@@ -5,6 +5,15 @@ Program Studi Sistem Informasi
 Universitas Tanjungpura
 2018
 
+Kelompok Osyris:
+- Dimas Sigit Prasetyo
+- Enrico Fajar Ferdiansyah
+- Jody
+- Jonathan Graciano Situmorang
+- Rino Ramadhan
+- Septian Isnu Krisdayanto
+
+
 Program untuk memanajemen keuangan [Python]
 
 Selamat Datang di program MoneyManager
@@ -17,9 +26,9 @@ Cara Menjalankan program
 - Klik clone / download
 - Extract file
 - Buka folder MoneyManager
-- Buka File Main.py sebaagi python file
-- Atau bisa juga melalu cmd prompt dari directory tersebut
-- jalankan "python Main.py"
+- Buka File Main.py sebagai python file
+- Atau bisa juga melalui command prompt dari directory tersebut
+- jalankan perintah "python Main.py"
 
 
 Cara menggunakan program
