@@ -42,6 +42,23 @@ def first():
 	input("Tekan Enter untuk lanjut...")
 	userRegister("Masukkan username dan password yang kamu inginkan")
 
+def tentang():
+	clear()
+	print("Author:")
+	print("- Dimas Sigit Prasetyo")
+	print("- Enrico Fajar Ferdiansyah")
+	print("- Jody")
+	print("- Jonathan Graciano Situmorang")
+	print("- Rino Ramadhan")
+	print("- Septian Isnu Kristianto")
+	print("")
+	input("Tekan Enter untuk Kembali...")
+	main()
+
+def keluar():
+	print("")
+	print("Terimakasih sudah menggunakan program kami :)")
+
 # Pesan untuk user yang sudah memiliki akun
 # Dia diberi pilihan untuk login atau membuat akun
 def main():
@@ -51,6 +68,8 @@ def main():
 	choices = {}
 	choices["Login"] = userLogin
 	choices["Buat Akun"] = userRegister
+	choices["Tentang"] = tentang
+	choices["Keluar"] = keluar
 	choice(choices)
 	
 # Halaman login
