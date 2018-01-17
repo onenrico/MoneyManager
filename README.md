@@ -7,10 +7,10 @@ Universitas Tanjungpura
 
 Kelompok Osyris:
 - Dimas Sigit Prasetyo
-- Enrico Fajar Ferdiansyah
-- Jody
+- Enrico Fajar Ferdiansyah ( H1101171001 )
+- Jody ( H1101171041 )
 - Jonathan Graciano Situmorang
-- Rino Ramadhan
+- Rino Ramadhan ( H1101171017 )
 - Septian Isnu Kristiyanto
 
 
