@@ -11,7 +11,7 @@ Kelompok Osyris:
 - Jody
 - Jonathan Graciano Situmorang
 - Rino Ramadhan
-- Septian Isnu Krisdayanto
+- Septian Isnu Kristiyanto
 
 
 Program untuk memanajemen keuangan [Python]
